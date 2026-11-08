@@ -1,4 +1,4 @@
-Vibecoded plugin for DMS to controll HiBy R1 / R3 Pro II player with custom sonix-player wia the SonixLink feature on the firmware
+Vibecoded plugin for DMS to controll HiBy R1 / R3 Pro II player with custom sonix-player made by Jepl4r wia the SonixLink feature on the firmware
 
 *HibBy R3 Pro II was not tested. I dont have one.
 
