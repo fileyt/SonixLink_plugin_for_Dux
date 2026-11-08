@@ -1,0 +1,22 @@
+{
+    "id": "sonixlink",
+    "name": "SonixLink",
+    "version": "2.2.0",
+    "author": "fileyt",
+    "icon": "music_note",
+    "description": "Remote control for Sonix Player on HiBy R3 Pro II / R1: bar pill plus panel with folder browsing, artwork, favourites and queue",
+    "type": "composite",
+    "capabilities": ["dankbar-widget", "dash-tab"],
+    "components": {
+        "widget": "./SonixLinkWidget.qml",
+        "dash": "./SonixLinkTab.qml",
+        "settings": "./SonixLinkSettings"
+    },
+    "dash": {
+        "title": "SonixLink",
+        "options": []
+    },
+    "settings": "./SonixLinkSettings.qml",
+    "permissions": ["settings_read", "settings_write", "network"],
+    "requires_dms": ">=2.0.0"
+}
